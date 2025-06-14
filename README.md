@@ -182,7 +182,7 @@ class Order extends Model {
 
 ## User Authentication System
 
-### **🔐 Authentication Features**
+### ** Authentication Features**
 - **Registration System**: Email validation, password confirmation, role selection
 - **Login System**: Secure authentication with "Remember Me" option
 - **Password Reset**: Email-based password recovery system
