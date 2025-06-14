@@ -182,11 +182,11 @@ class Order extends Model {
 
 ## User Authentication System
 
-### **🔐 Authentication Features**
+### ** Authentication Features**
 - **Registration System**: Email validation, password confirmation, role selection
 - **Login System**: Secure authentication with "Remember Me" option
 - **Password Reset**: Email-based password recovery system
-- **Role-Based Access**: Different dashboards for customers, restaurant owners, and admins
+- **Role-Based Access**: Different dashboards for customers and restaurant owners as admin
 - **Profile Management**: Users can update their information and preferences
 
 ### **Security Measures**
@@ -208,8 +208,8 @@ class Order extends Model {
 
 1. Clone the Repository
 
-bash
-git clone https://github.com/[your-username]/QuickPlate.git
+bash/n
+git clone https://github.com/[your-username]/QuickPlate.git/n
 cd QuickPlate
 
 2. Install Dependencies
